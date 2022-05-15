@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gideon-ogunbanjo
+- 👋 Hi, I’m @Gideon-Ogunbanjo
 - 👀 I’m interested in ... Artificial Intelligence
 - 🌱 I’m currently into ... Python, R and C++ 
 - 💞️ I’m looking to collaborate on ... Different projects to benefit the Tech society and gain experience in the tech sector as a whole
