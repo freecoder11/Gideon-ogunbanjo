@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gideon-Ogunbanjo
-- 👀 I’m interested in ... Artificial Intelligence
-- 🌱 I’m currently into ... Python, R and C++ 
-- 💞️ I’m looking to collaborate on ... Different projects to benefit the Tech society and gain experience in the tech sector as a whole
+- 👋 Hi, I’m @Gideon-Ogunbanjo.
+- 👀 I’m interested in ... Artificial Intelligence.
+- 🌱 I’m currently into ... Python, R, Java, C++ and Scala. 
+- 💞️ I’m looking to collaborate on ... Different projects to benefit the Tech society and gain experience in the tech sector as a whole.
 - 📫 How to reach me ...E-mail: dejiogunbanjo9@gmail.com
 
 <!---
